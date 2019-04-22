@@ -1,0 +1,17 @@
+<DOCTYPE! html>
+<html lang="pt-BR">
+  <head>
+    <meta charset = "UTF-8">
+    <title>My New Page HTML5</title>
+  </head>
+  <body>
+    <div>
+      <div>
+        <h1>Learning html praticing in a gitHub platform</h1>
+        <p>I´m a enthusiast and this is my first post about html language at the gitHub platform. I feel this program goes to help me in my 
+        journey in programming.
+        </p>
+      </div>
+    </div>
+  </body>
+</html>
